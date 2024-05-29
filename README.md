@@ -6,9 +6,9 @@ SSAFY 광주 3반 마라톤 알고리즘
 
 ## 🏃🏻‍♀️ 멤버
 
-| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/156279384?v=4" width="100">](https://github.com/rlaehdud1002) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) | [<img src="" width="100">]() |
-| :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :--------------------------: |
-|                                   [김가람 📢](https://github.com/garamgim)                                   |                                    [김도영](https://github.com/rlaehdud1002)                                     |                                   [송준혁](https://github.com/TheNoFace)                                    |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |          [이정하]()          |
+| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/156279384?v=4" width="100">](https://github.com/rlaehdud1002) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) | [<img src="https://avatars.githubusercontent.com/u/51374924?v=4" width="100">](https://github.com/ZXLeeChris) |
+| :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|                                   [김가람 📢](https://github.com/garamgim)                                   |                                    [김도영](https://github.com/rlaehdud1002)                                     |                                   [송준혁](https://github.com/TheNoFace)                                    |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |                                    [이정하](https://github.com/ZXLeeChris)                                    |
 
 | [<img src="https://avatars.githubusercontent.com/u/156316110?v=4" width="100">](https://github.com/ljjunh) | [<img src="https://avatars.githubusercontent.com/u/57222722?v=4" width="100">](https://github.com/jbs3047) | [<img src="https://avatars.githubusercontent.com/u/121501361?v=4" width="100">](https://github.com/souffle1903) | [<img src="https://avatars.githubusercontent.com/u/156279478?v=4" width="100">](https://github.com/Jaewooooon) |
 | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
@@ -103,12 +103,12 @@ git commit -m "[홍길동] 0주차 0번 풀이 제출"
 
 <br>
 
-## 🏃‍♀️ Pull Request
+## 🏃‍♀️ Merge
 
-- `main` 브랜치에 커밋 절대 금지, 모든 코드는 분기된 브랜치에서 커밋한 후 `Pull Request`를 통해서 제출합니다.
-- PR 제목은 `커밋명과 동일하게`, 코멘트는 자유롭게 작성해서 제출합니다.
-- 별도의 승인 없이 제출 후 본인의 `PR`을 스스로 머지해주세요.
-- 코드리뷰를 강제하지 않으나 디렉토리 구조 상 다른 사람의 코드를 보기 쉽게 되어 있으니 많이 참고하시고 필요시 소통하시기 바랍니다.
+- `main` 브랜치에 커밋 절대 금지, 모든 코드는 분기된 브랜치에서 커밋한 후 `Pull Request` 혹은 로컬에서의 `merge`를 통해서 제출합니다.
+  - PR을 작성하신다면 제목은 `커밋명과 동일하게`, 코멘트는 자유롭게 작성하시면 됩니다.
+  - 별도의 승인 없이 제출 후 본인의 `PR`을 스스로 머지해주세요.
+- 코드리뷰를 강제하지 않으나 디렉토리 구조 상 다른 사람의 코드를 보기 쉽게 되어 있으니 많이 참고하시고 자주 소통하시기 바랍니다.
 
 <br>
 
