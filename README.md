@@ -4,6 +4,20 @@ SSAFY 광주 3반 마라톤 알고리즘
 
 <br>
 
+## 🏃🏻‍♀️ 멤버
+
+| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/156279384?v=4" width="100">](https://github.com/rlaehdud1002) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) | [<img src="" width="100">]() |
+| :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :--------------------------: |
+|                                   [김가람 📢](https://github.com/garamgim)                                   |                                    [김도영](https://github.com/rlaehdud1002)                                     |                                   [송준혁](https://github.com/TheNoFace)                                    |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |          [이정하]()          |
+
+<br>
+
+| [<img src="https://avatars.githubusercontent.com/u/156316110?v=4" width="100">](https://github.com/ljjunh) | [<img src="https://avatars.githubusercontent.com/u/57222722?v=4" width="100">](https://github.com/jbs3047) | [<img src="https://avatars.githubusercontent.com/u/121501361?v=4" width="100">](https://github.com/souffle1903) | [<img src="https://avatars.githubusercontent.com/u/156279478?v=4" width="100">](https://github.com/Jaewooooon) |
+| :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|                                    [임준희](https://github.com/ljjunh)                                     |                                    [전기철](https://github.com/jbs3047)                                    |                                    [정하림](https://github.com/souffle1903)                                     |                                    [최재원](https://github.com/Jaewooooon)                                     |
+
+<br>
+
 ## 🏃‍♂️ 진행 목표
 
 - `24-06-03(월) ~ SSAFY 2학기 수료시까지`
