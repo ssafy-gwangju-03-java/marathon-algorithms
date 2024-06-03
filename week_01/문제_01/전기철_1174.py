@@ -18,7 +18,7 @@ def dfs():
 dfs()
 lst.sort()
 
-print(lst)
+#print(lst)
 
 if len(lst) + 1 > n:
     print(lst[n - 1])
