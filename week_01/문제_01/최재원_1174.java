@@ -8,8 +8,8 @@ import java.util.List;
 public class 최재원_1174 {
     static int N;
     static int[] nums = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
-
     static List<Long> arr = new ArrayList<>();
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(br.readLine());
