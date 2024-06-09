@@ -34,7 +34,7 @@ M = int(input())
 # 땅1, 땅2, 도로길이(양방향)
 # roads = [list(map(int, input().split())) for _ in range(M)]
 
-graph = [[] * (N + 1) for _ in range(N + 1)]
+graph = [[] for _ in range(N + 1)] # 초기화를 잘못해서 틀렸다..
 for _ in range(M):
     # 땅1, 땅2, 도로길이(양방향)
     D, E, road = map(int, input().split())
