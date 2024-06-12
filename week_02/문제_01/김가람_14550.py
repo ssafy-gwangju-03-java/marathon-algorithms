@@ -30,7 +30,7 @@ def dp(arr, N, S, T):
             memo[i][j] = max_value
 
     # T-1회차 움직임에서 END에 도달할 수 있는 열들만 고른 후 그 열들 가운데에서 최댓값 리턴
-    return max(memo[T-2][N-1:N-1-S:-1])
+    return max(memo[T-2][N-S])
 
 
 while True:
