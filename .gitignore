@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,java,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,java,intellij
-
+.DS_Store
 .idea/
 
 ### Intellij ###
