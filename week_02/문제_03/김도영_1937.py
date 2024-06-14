@@ -21,7 +21,7 @@ dj = [0, 0, -1, 1]
 
 def dfs(i, j):
     # 이미 계산 했을때
-    if dp[i][j] != -1:
+    if dp[i][j] != 0:
         return dp[i][j]
 
     # 현재 칸에 간 것 만으로도 이미 한 칸
@@ -43,8 +43,7 @@ n = int(input())
 
 bamboo = [list(map(int, input().split())) for _ in range(n)]
 
-# 갈 수 있는 칸 수가 0개일 수도 있으므로 -1로 초기화
-dp = [[-1] * n for _ in range(n)]
+dp = [[0] * n for _ in range(n)]
 
 result = 0
 for x in range(n):
