@@ -1,9 +1,3 @@
-import sys
-
-# 입력 파일을 열어 표준 입력으로 설정
-sys.stdin = open("../input.txt")
-
-
 def calculate_max_score():
     # 초기화 / i번째 이동 후 j번째 칸에 있을 때 최대 점수
     INF = -10001
