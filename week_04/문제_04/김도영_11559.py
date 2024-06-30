@@ -49,7 +49,6 @@ def move():
                 field[cnt][j] = x
                 cnt -= 1
 
-# 연쇄 count
 result = 0
 while True:
     pang = False
