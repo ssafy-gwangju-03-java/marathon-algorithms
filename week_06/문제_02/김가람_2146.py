@@ -62,8 +62,13 @@ def build_bridge_bfs(border, island_num):
                 nr, nc = cr + dr[d], cc + dc[d]
 
                 if 0 <= nr < N and 0 <= nc < N and not visited[nr][nc]:
-                    if island[nr][nc] and island[nr][nc] != island_num:
-                        return turn
+                    if island[nr][nc]:
+                        # 현재 섬의 육지를 만나면 continue, 다리는 바다에만 놓는다
+                        if island[nr][nc] == island_num:
+                            continue
+                        # 다른 섬의 육지를 만나면 다리가 놓아진 것이므로 return
+                        else:
+                            return turn
                     visited[nr][nc] = True
                     q.append((nr, nc))
 
