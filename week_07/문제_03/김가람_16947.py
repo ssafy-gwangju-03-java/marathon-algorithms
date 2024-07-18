@@ -4,19 +4,19 @@ sys.setrecursionlimit(10 ** 8)
 
 
 # 순환선을 찾아낼 DFS 함수
-# curr == 현재 탐색중인 역
+# curr == 현재 탐색중인 정점
 # order == DFS의 방문 순서
-# visited == [N - 1번째 역의 order]
+# visited == [(i + 1번째 정점의 order) for i in range(N)]
 def dfs(curr, order, visited):
 
     # 이미 순환선을 찾았다면 return
     if loop:
         return
 
-    # 방문했던 곳으로 다시 돌아왔다 == 순환선
+    # 방문했던 곳으로 다시 돌아왔다 == 순환선 시작점
     if visited[curr]:
 
-        # 해당 역의 순서가 순환선의 시작 순서보다 크거나 같다
+        # 해당 역의 순서가 순환선 시작점의 순서보다 크거나 같다
         # == 순환선의 시작 이후에 방문했다
         # == 순환선에 포함된다
         for i in range(N):
@@ -39,10 +39,10 @@ def dfs(curr, order, visited):
     visited[curr] = 0
 
 
-# 순환선인 역들로부터의 거리를 측정해 줄 BFS 함수
+# 순환선인 정점들로부터의 거리를 측정해 줄 BFS 함수
 def bfs():
 
-    # 시작 정점은 순환선에 해당되는 역들
+    # 시작 정점은 순환선에 포함된 모든 정점들
     visited = [False] * N
     for vertex in loop:
         visited[vertex] = True
@@ -66,6 +66,7 @@ def bfs():
         dist += 1
 
 
+
 N = int(sys.stdin.readline())
 adjl = [[] for _ in range(N)]
 
@@ -80,7 +81,6 @@ dfs(0, 1, [0] * N)
 answer = [0] * N
 bfs()
 print(*answer)
-
 
 
 
