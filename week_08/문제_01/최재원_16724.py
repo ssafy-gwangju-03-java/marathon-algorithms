@@ -37,7 +37,7 @@ p = make_set(N * M)
 # 0번부터 11번 집합을 순회하며 합치기
 for i in range(N):
     for j in range(M):
-        # 1번부터 N * M 번 집합
+        # 0번부터 N * M 번 집합
         curr = (i * M) + j
 
         # 4가지 방향에 따라 현재 집합과 합칠 집합 정하기
@@ -57,4 +57,5 @@ for i in range(N):
 for i in range(N * M):
     find_set(i)
 
+# 대표자 수 = safe_zone 수
 print(len(set(p)))
