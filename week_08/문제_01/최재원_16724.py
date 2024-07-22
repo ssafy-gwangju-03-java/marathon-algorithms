@@ -1,6 +1,5 @@
 import sys
 sys.setrecursionlimit(10**6)
-sys.stdin = open("../../input.txt", 'r')
 input = sys.stdin.readline
 
 N, M = map(int, input().strip().split())
@@ -54,7 +53,7 @@ for i in range(N):
         # 합치기
         union(curr, target)
 
-# 전체 경로단축
+# 전체 경로압축
 for i in range(N * M):
     find_set(i)
 
