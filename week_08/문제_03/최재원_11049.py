@@ -21,7 +21,4 @@ for gap in range(2, N):
             dp[left][right] = min(dp[left][right], dp[left][middle] + dp[middle + 1][right]
                                   + arr[left][0] * arr[middle][1] * arr[right][1])
 
-for i in range(N):
-    print(dp[i])
-
 print(dp[0][-1])
