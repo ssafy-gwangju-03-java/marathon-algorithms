@@ -19,8 +19,8 @@ def check_full(arr, r, c, size):
     return True
 
 # 색종이를 붙이거나 떼주는 보조 함수
-# num == 1: (r, c)부터 size만큼의 색종이 붙이기
-# num == 0: (r, c)부터 size만큼 색종이 떼기
+# num == 0: (r, c)부터 size만큼의 색종이 붙이기
+# num == 1: (r, c)부터 size만큼 색종이 떼기
 def attach(arr, r, c, size, num):
     for i in range(size):
         for j in range(size):
