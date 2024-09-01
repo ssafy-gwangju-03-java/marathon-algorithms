@@ -1,6 +1,10 @@
 import sys
 
+sys.setrecursionlimit(10 ** 6)
+
 """
+https://www.youtube.com/watch?v=PAihI2CGr-M
+
 반례
 
 4 6
