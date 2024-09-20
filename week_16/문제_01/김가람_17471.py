@@ -12,7 +12,7 @@ for i in range(1, N + 1):
         adjl[i].append(adjacent_node[j])
 
 def get_population_sum(num_list):
-    return sum([population[num] for num in num_list])
+    return sum(population[num] for num in num_list)
 
 def dfs(curr, visited, curr_section):
     visited[curr] = True
