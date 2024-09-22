@@ -42,7 +42,7 @@ def get_total(nodes):
 cases = []
 X = {i for i in range(n)}  # 전체 구역 집합
 INF = int(1e9)
-ans = INF
+ans = INF  # 인구 차이의 최솟값
 
 for i in range(1, n // 2 + 1):  # 가능한 모든 선거구 조합 생성하기
     As = tuple(combinations(X, i))  # i개의 구역으로 이루어진 모든 조합 생성하기
@@ -57,4 +57,4 @@ for i in range(1, n // 2 + 1):  # 가능한 모든 선거구 조합 생성하기
 if ans == INF:
     print(-1)  # 가능한 분할 없으면 -1 출력
 else:
-    print(ans)  # 인구 차이의 최솟값 출력하기
+    print(ans)
