@@ -6,9 +6,9 @@ SSAFY 광주 3반 마라톤 알고리즘
 
 ## 🏃🏻‍♀️ 멤버
 
-| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/156279384?v=4" width="100">](https://github.com/rlaehdud1002) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) |
-| :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-|                                   [김가람 📢](https://github.com/garamgim)                                   |                                    [김도영](https://github.com/rlaehdud1002)                                     |                                   [송준혁](https://github.com/TheNoFace)                                    |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |
+| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) | [<img src="https://avatars.githubusercontent.com/u/156265319?v=4" width="100">](https://github.com/Sophia0705) |
+| :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|                                   [김가람 📢](https://github.com/garamgim)                                   |                                   [송준혁](https://github.com/TheNoFace)                                    |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |                                    [이예지](https://github.com/Sophia0705)                                     |
 
 | [<img src="https://avatars.githubusercontent.com/u/51374924?v=4" width="100">](https://github.com/ZXLeeChris) | [<img src="https://avatars.githubusercontent.com/u/57222722?v=4" width="100">](https://github.com/jbs3047) | [<img src="https://avatars.githubusercontent.com/u/109744927?v=4"  width="100">](https://github.com/surina125) | [<img src="https://avatars.githubusercontent.com/u/156279478?v=4" width="100">](https://github.com/Jaewooooon) |
 | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
@@ -30,7 +30,7 @@ SSAFY 광주 3반 마라톤 알고리즘
 - 해당 주차의 문제는 `일요일 자정`까지 모두 제출해야 합니다.
 - 만약 문제를 끝까지 풀지 못했다면 구글링 후 풀이법을 학습하여 주석을 달아 제출하시기 바랍니다.
 - 일요일 자정의 풀이 기한까지 3문제의 풀이 코드가 제출되지 않았을 시 `경고`가 누적되며 경고 누적 `3회차`에 스터디에서 바로 `제명`됩니다.
-- 그럼에도 불구하고 2학기 프로젝트, 취업활동과 유연하게 병행하기 위해 `면제권` 정책을 실시하오니 이와 관련해서는 [해당 페이지](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/admin/%08board.md)를 참조하시기 바랍니다.
+- 그럼에도 불구하고 2학기 프로젝트, 취업활동과 유연하게 병행하기 위해 `면제권` 정책을 실시하오니 이와 관련해서는 [해당 페이지](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/admin/board.md)를 참조하시기 바랍니다.
 
 <br>
 
@@ -38,9 +38,7 @@ SSAFY 광주 3반 마라톤 알고리즘
 
 - 스터디원들끼리 순번을 정하여 돌아가며 출제합니다.
 - 문제 출제는 `백준 골드`, `프로그래머스 레벨 3` 및 이에 준하는 난이도의 문제들로 제한합니다.
-- SSAFY 1학기 과정 중 배우지 않았던 알고리즘이나 코딩테스트에 잘 출제되지 않는 희소한 알고리즘의 출제는 가급적 지양합니다.
-- 마라톤을 완주하려면 `완급 조절`이 필요합니다! 너무 어려운 문제 혹은 너무 쉬운 문제만 출제하지 말고 적당히 섞어서 출제해주세요.
-  - 예) `골드 4` + `골드 4` + `골드 2`
+- 코딩테스트에 잘 출제되지 않는 희소한 알고리즘의 출제는 가급적 지양합니다.
 
 <br>
 
@@ -48,7 +46,7 @@ SSAFY 광주 3반 마라톤 알고리즘
 
 - 파일명: `이름_문제번호`
 - 파일 내용
-  - 나 자신 혹은 다른사람이 이해할 수 있는 명확한 풀이 코드여야 합니다.
+  - 나 자신 혹은 다른사람이 이해할 수 있을 정도의 가독성을 보장하는 풀이 코드여야 합니다.
   - 변수명과 로직을 명확히 해서 제출하십시오.
   - 특히 풀이에 실패하여 다른 사람의 코드를 참고하였다면 `실패 원인`과 `새로 학습한 로직`을 주석으로 필히 작성하여 제출 바랍니다.
   - 기타 다른 스터디원과 공유하고 싶은 내용을 자유롭게 작성해주세요.
@@ -73,7 +71,7 @@ SSAFY 광주 3반 마라톤 알고리즘
 - `README` 문서에는 다음 내용이 포함되어있어야 합니다.
   - `순번`이 제공된 3개의 문제 리스트
   - 출제 의도, 난이도, 주의사항 등 원하는 내용과 함께 자유롭게 기술
-  - `문제_01 ~ 문제_03` 폴더를 미리 만들어 `.gitkeep` 파일을 추가한 후 머지
+- `문제_01 ~ 문제_03` 폴더를 미리 만들어 `.gitkeep` 파일을 추가한 후 머지
 - 디렉토리를 업데이트 한 후에는 메인 페이지 README 파일 맨 밑의 `문제목록` 테이블에 해당 md 파일의 url을 추가하여 바로가기가 쉽도록 해주시기 바랍니다.
 
 ```
@@ -100,7 +98,7 @@ SSAFY 광주 3반 마라톤 알고리즘
 ## 🏃🏽 Commit
 
 - `[이름] 0주차 0번 풀이 제출`
-- 여러 문제 한꺼번에 업로드 시 `git add .` 금지, **한 문제씩 각각 업로드**
+- `git add .` 금지, **한 문제씩 각각 커밋**
 
 ```
 git commit -m "[홍길동] 0주차 0번 풀이 제출"
@@ -158,6 +156,21 @@ git commit -m "[홍길동] 0주차 0번 풀이 제출"
   </tr>
   <tr>
     <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_12/12%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">12주차 문제목록</a> </td>
+  </tr>
+  <tr>
+    <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_13/13%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">13주차 문제목록</a> </td>
+  </tr>
+  <tr>
+    <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_14/14%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">14주차 문제목록</a> </td>
+  </tr>  
+  <tr>
+    <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_15/15%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">15주차 문제목록</a> </td>
+  </tr>  
+  <tr>
+    <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_16/15%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">16주차 문제목록</a> </td>
+  </tr>  
+<tr>
+    <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_17/17%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">17주차 문제목록</a> </td>
   </tr>
 </table>
 <br>
