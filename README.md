@@ -6,10 +6,13 @@ SSAFY 광주 3반 마라톤 알고리즘
 
 ## 🏃🏻‍♀️ 멤버
 
-| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) | [<img src="https://avatars.githubusercontent.com/u/51374924?v=4" width="100">](https://github.com/ZXLeeChris) |  [<img src="https://avatars.githubusercontent.com/u/57222722?v=4" width="100">](https://github.com/jbs3047)  |             [<img src="https://avatars.githubusercontent.com/u/156279478?v=4" width="100">](https://github.com/Jaewooooon)              |
-| :----------------------------------------------------------------------------------------------------------: |:-----------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------: |  :-----------------------------------------------------------------------------------------------------------: |:------------------------------------------------------------------------------------------------------: |:---------------------------------------------------------------------------------------------------------------------------------------:|
-|                                   [김가람 📢](https://github.com/garamgim)                                   |                                     [송준혁](https://github.com/TheNoFace)                                     |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |                                    [이정하](https://github.com/ZXLeeChris)                                    |                                                                                             [전기철](https://github.com/jbs3047)                                       |                                                                  [최재원](https://github.com/Jaewooooon)                                   | 
+| [<img src="https://avatars.githubusercontent.com/u/126746542?v=4" width="100">](https://github.com/garamgim) | [<img src="https://avatars.githubusercontent.com/u/3072090?v=4" width="100">](https://github.com/TheNoFace) | [<img src="https://avatars.githubusercontent.com/u/123948643?v=4" width="100">](https://github.com/LEEMYEONGUK) | [<img src="https://avatars.githubusercontent.com/u/156265319?v=4" width="100">](https://github.com/Sophia0705) |
+| :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|                                   [김가람 📢](https://github.com/garamgim)                                   |                                   [송준혁](https://github.com/TheNoFace)                                    |                                    [이명욱](https://github.com/LEEMYEONGUK)                                     |                                    [이예지](https://github.com/Sophia0705)                                     |
 
+| [<img src="https://avatars.githubusercontent.com/u/51374924?v=4" width="100">](https://github.com/ZXLeeChris) | [<img src="https://avatars.githubusercontent.com/u/57222722?v=4" width="100">](https://github.com/jbs3047) | [<img src="https://avatars.githubusercontent.com/u/109744927?v=4"  width="100">](https://github.com/surina125) | [<img src="https://avatars.githubusercontent.com/u/156279478?v=4" width="100">](https://github.com/Jaewooooon) |
+| :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|                                    [이정하](https://github.com/ZXLeeChris)                                    |                                    [전기철](https://github.com/jbs3047)                                    |                                     [정현수](https://github.com/surina125)                                     |                                    [최재원](https://github.com/Jaewooooon)                                     |
 
 <br>
 
@@ -36,7 +39,6 @@ SSAFY 광주 3반 마라톤 알고리즘
 - 스터디원들끼리 순번을 정하여 돌아가며 출제합니다.
 - 문제 출제는 `백준 골드`, `프로그래머스 레벨 3` 및 이에 준하는 난이도의 문제들로 제한합니다.
 - 코딩테스트에 잘 출제되지 않는 희소한 알고리즘의 출제는 가급적 지양합니다.
-
 
 <br>
 
@@ -170,6 +172,8 @@ git commit -m "[홍길동] 0주차 0번 풀이 제출"
 <tr>
     <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_17/17%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">17주차 문제목록</a> </td>
   </tr>
+  <tr>
+    <td align="center" width="170px"><a href="https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_18/18%EC%A3%BC%EC%B0%A8%EB%AC%B8%EC%A0%9C%EB%AA%A9%EB%A1%9D.md">18주차 문제목록</a> </td>
+  </tr>  
 </table>
 <br>
-
