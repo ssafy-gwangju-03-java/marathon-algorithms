@@ -51,7 +51,7 @@ def dfs(r, c):
                 # 다음 칸으로 이동
                 dfs(nr, nc)
 
-                # 복원 (backtracking)
+                # 백트래킹 (주의: 전부 복원했는지 잘 확인하기)
                 sudoku[r][c] = 0
                 garo[r].pop()
                 sero[c].pop()
