@@ -29,10 +29,8 @@ for seat in combinations(seats, 7):
             if (nr, nc) in seat and not visited[nr][nc]:
                 q.append((nr, nc))
 
-    visit_count = sum([lst.count(True) for lst in visited])
-
     # 7개 좌표 모두 bfs로 방문하였고 'S' 4개 이상 보유했다면
-    if visit_count == 7 and sum([int(gang[r][c] == 'S') for r, c in seat]) >= 4:
+    if sum([lst.count(True) for lst in visited]) == 7 and sum([int(gang[r][c] == 'S') for r, c in seat]) >= 4:
         ans += 1
 
 print(ans)
