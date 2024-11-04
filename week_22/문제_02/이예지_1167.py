@@ -1,5 +1,4 @@
 # 1167. 트리의 지름
-
 import sys
 from collections import deque
 
