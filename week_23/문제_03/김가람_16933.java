@@ -27,7 +27,6 @@ public class 김가람_16933 {
         N = Integer.parseInt(input[0]);
         M = Integer.parseInt(input[1]);
         K = Integer.parseInt(input[2]);
-
         map = new int[N][M];
         visit = new boolean[N][M][K + 1][2];
 
@@ -44,7 +43,7 @@ public class 김가람_16933 {
     }
 
     static void bfs() {
-        Queue<Node> q = new ArrayDeque<>();
+        Queue<Node> q = new LinkedList<>();
         q.add(new Node(0, 0, 1, 0, 0));
         visit[0][0][0][0] = true;
 
@@ -66,7 +65,6 @@ public class 김가람_16933 {
 
                 // 이동할 곳이 벽이 아닌 경우
                 if (map[nr][nc] == 0) {
-
                     // 낮에 이동하는 경우 (day가 0)
                     if (curr.day == 0 && !visit[nr][nc][curr.broke][1]) {
                         visit[nr][nc][curr.broke][1] = true;
@@ -77,11 +75,9 @@ public class 김가람_16933 {
                         visit[nr][nc][curr.broke][0] = true;
                         q.add(new Node(nr, nc, curr.dist + 1, curr.broke, 0));
                     }
-
                 }
                 // 벽인 경우
                 else {
-
                     // 벽을 부순 횟수가 K 미만인 경우 벽을 부술 수 있음
                     if (curr.broke < K) {
                         // 낮에 벽을 부수는 경우
@@ -95,7 +91,6 @@ public class 김가람_16933 {
                             q.add(new Node(r, c, curr.dist + 1, curr.broke, 0));
                         }
                     }
-
                 }
             }
         }
